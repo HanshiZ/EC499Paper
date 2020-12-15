@@ -1,0 +1,5 @@
+The first column indicates the quarter of play that the drive started in.
+The second column indicates the start of the drive and the third the end.
+If the team scored and there is a kickoff, the end is marked at the 35 yard line.
+Pos indicates home team possesion.
+The remaining columns indicate how a drive ended, whether it be a kickoff, a fumble lost, an interception or a turnover on downs.
